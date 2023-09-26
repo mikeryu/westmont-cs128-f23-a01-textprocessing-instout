@@ -1,0 +1,12 @@
+     9 total items
+     9 unique items
+
+     1 <123:45>
+     1 <an:input>
+     1 <input:string>
+     1 <is:or>
+     1 <isn't:it>
+     1 <it:123>
+     1 <or:isn't>
+     1 <string:this>
+     1 <this:is>

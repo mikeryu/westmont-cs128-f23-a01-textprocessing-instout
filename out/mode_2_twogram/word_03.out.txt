@@ -1,0 +1,8 @@
+     5 total items
+     5 unique items
+
+     1 <repeats:the>
+     1 <sentence:repeats>
+     1 <the:word>
+     1 <this:sentence>
+     1 <word:sentence>

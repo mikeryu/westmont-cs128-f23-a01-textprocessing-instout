@@ -1,0 +1,13 @@
+    10 total items
+    10 unique items
+
+     1 123
+     1 45
+     1 an
+     1 input
+     1 is
+     1 isn't
+     1 it
+     1 or
+     1 string
+     1 this

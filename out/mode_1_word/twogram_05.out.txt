@@ -1,0 +1,23 @@
+    20 total items
+    20 unique items
+
+     1 a
+     1 aa
+     1 baab
+     1 bab
+     1 cbaabc
+     1 cbabc
+     1 dcbaabcd
+     1 dcbabcd
+     1 edcbaabcde
+     1 edcbabcde
+     1 m
+     1 n
+     1 o
+     1 p
+     1 q
+     1 r
+     1 s
+     1 t
+     1 u
+     1 v

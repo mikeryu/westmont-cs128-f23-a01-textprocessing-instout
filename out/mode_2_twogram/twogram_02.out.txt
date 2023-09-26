@@ -1,0 +1,28 @@
+    25 total items
+    25 unique items
+
+     1 <aa:bb>
+     1 <bb:cc>
+     1 <cc:dd>
+     1 <dd:ee>
+     1 <ee:ff>
+     1 <ff:gg>
+     1 <gg:hh>
+     1 <hh:ii>
+     1 <ii:jj>
+     1 <jj:kk>
+     1 <kk:ll>
+     1 <ll:mm>
+     1 <mm:nn>
+     1 <nn:oo>
+     1 <oo:pp>
+     1 <pp:qq>
+     1 <qq:rr>
+     1 <rr:ss>
+     1 <ss:tt>
+     1 <tt:uu>
+     1 <uu:vv>
+     1 <vv:ww>
+     1 <ww:xx>
+     1 <xx:yy>
+     1 <yy:zz>

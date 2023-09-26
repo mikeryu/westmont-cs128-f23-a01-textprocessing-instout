@@ -1,0 +1,33 @@
+    30 total items
+    30 unique items
+
+     1 <an:input>
+     1 <c'est:une>
+     1 <cadena:de>
+     1 <ce:esta>
+     1 <chaîne:d'entrée>
+     1 <d'entrée:ou>
+     1 <de:entrada>
+     1 <entrada:o>
+     1 <es:una>
+     1 <est:ce>
+     1 <esta:es>
+     1 <input:string>
+     1 <is:it>
+     1 <is:or>
+     1 <it:這是一個輸入字符串>
+     1 <o:es>
+     1 <or:is>
+     1 <ou:est>
+     1 <string:this>
+     1 <this:is>
+     1 <una:cadena>
+     1 <une:chaîne>
+     1 <أو:هو>
+     1 <المدخلات:أو>
+     1 <سلسلة:المدخلات>
+     1 <هذا:هو>
+     1 <هو:c'est>
+     1 <هو:سلسلة>
+     1 <這是一個輸入字符串:還是>
+     1 <還是:هذا>

@@ -1,0 +1,22 @@
+    19 total items
+    19 unique items
+
+     1 <a:m>
+     1 <aa:r>
+     1 <baab:s>
+     1 <bab:n>
+     1 <cbaabc:t>
+     1 <cbabc:o>
+     1 <dcbaabcd:u>
+     1 <dcbabcd:p>
+     1 <edcbaabcde:v>
+     1 <edcbabcde:q>
+     1 <m:bab>
+     1 <n:cbabc>
+     1 <o:dcbabcd>
+     1 <p:edcbabcde>
+     1 <q:aa>
+     1 <r:baab>
+     1 <s:cbaabc>
+     1 <t:dcbaabcd>
+     1 <u:edcbaabcde>
